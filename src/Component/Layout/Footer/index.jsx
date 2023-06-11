@@ -48,39 +48,39 @@ function Footer() {
             <div className="footer_social">
               <a
                 className="footer_img_link"
-                href="https://github.com/vivekbhatt07"
+                href="https://github.com/Saibhargav1208"
                 target="_blank"
               >
                 <img src={Github} alt="social_logo" />
               </a>
               <a
                 className="footer_img_link"
-                href="https://twitter.com/vivekbhatt07"
+                href="https://twitter.com/RSaibhargav2"
                 target="_blank"
               >
                 <img src={Twitter} alt="social_logo" />
               </a>
               <a
                 className="footer_img_link"
-                href="https://www.linkedin.com/in/vivekbhatt07/"
+                href="https://www.linkedin.com/in/sai-bhargav-28557625b/"
                 target="_blank"
               >
-                <img src={Linkedin} alt="social_logo" />
-              </a>
-              <a
+                 <img src={Linkedin} alt="social_logo" />
+              </a> 
+              {/* <a
                 className="footer_img_link"
                 href="https://hashnode.com/@vivekbhatt07"
                 target="_blank"
-              >
-                <img src={Hash} alt="social_logo" />
-              </a>
-              <a
+              > */}
+                {/* <img src={Hash} alt="social_logo" />
+              </a>  */}
+              {/* <a
                 className="footer_img_link"
                 href="https://vivekbhatt.netlify.app/"
                 target="_blank"
               >
                 <img src={Portfolio} alt="portfolio_logo" />
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
